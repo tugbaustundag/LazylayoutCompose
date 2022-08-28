@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Lazy Layouts With Compose</string>
+    <string name="title_activity_lazy_grid">LazyGrid</string>
+</resources>
